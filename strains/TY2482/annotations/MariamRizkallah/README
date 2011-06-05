@@ -1,0 +1,22 @@
+Date: Jun 4 23:44:54 2011 (PDT)
+Results of analysis of TY2482 genome assembled by Nick Loman http://static.xbase.ac.uk/files/results/nick/TY2482/TY2482.fasta.txt using RAST http://rast.nmpdr.org/ under the supervision of Dr. Ramy Aziz (@azizrk), Edwards Lab, SDSU. Annotations are available for "guest" users as job:26565 for 120 days on RAST servers; Downloadable files: http://bit.ly/jetk71 and interactive pie chart of genome analysis: http://bit.ly/itFpUX
+
+Annotation environment: TY2482-RASTannotation_environment.png: configurations and default values taken by RAST to process the genome
+
+Results in the following formats:
+6666666.5373.faa: Amino-Acid FASTA file
+6666666.5373.embl: EMBL
+6666666.5373.ec-stripped.embl: EMBL (EC numbers stripped) 
+6666666.5373.gff: GFF3
+6666666.5373.ec-stripped.gff: GFF3 (EC numbers stripped)
+6666666.5373.gtf: GTF
+6666666.5373.ec-stripped.gtf: GTF (EC numbers stripped)
+6666666.5373.gbk: Genbank
+6666666.5373.ec-stripped.gbk: Genbank (EC numbers stripped)
+6666666.5373.fna: Nucleic-Acid FASTA file
+table.tsv: a tab-separated file of "features in subsystems" of the 3380 records; columns: Category, subcategory, subsystem, role, features.
+
+Screen snapshots:
+TY2482-subsystems-RAST.png: SEED viewer snapshot showing subsystems
+TY2482-Virulence.png: SEED viewer snapshot focusing on virulence subsytem
+TY2482_RAST_SEEDviewer.png: SEED information about the genome, e.g., number of contigs.. etc.
