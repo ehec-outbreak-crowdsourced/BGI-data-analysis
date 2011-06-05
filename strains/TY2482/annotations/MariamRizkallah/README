@@ -13,4 +13,9 @@ Results in the following formats:
 6666666.5373.gbk: Genbank
 6666666.5373.ec-stripped.gbk: Genbank (EC numbers stripped)
 6666666.5373.fna: Nucleic-Acid FASTA file
-table.tsv: a tab-separated file of "features in subsystems"
+table.tsv: a tab-separated file of "features in subsystems" of the 3380 records; columns: Category, subcategory, subsystem, role, features.
+
+Screen snapshots:
+TY2482-subsystems-RAST.png: SEED viewer snapshot showing subsystems
+TY2482-Virulence.png: SEED viewer snapshot focusing on virulence subsytem
+TY2482_RAST_SEEDviewer.png: SEED information about the genome, e.g., number of contigs.. etc.
