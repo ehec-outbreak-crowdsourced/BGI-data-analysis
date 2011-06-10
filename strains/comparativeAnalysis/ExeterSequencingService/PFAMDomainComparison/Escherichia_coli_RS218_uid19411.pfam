@@ -1,0 +1,77 @@
+# pfam_scan.pl,  run at Sun Jun  5 17:03:21 2011
+#
+# Copyright (c) 2009 Genome Research Ltd
+# Freely distributed under the GNU 
+# General Public License
+#
+# Authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk), 
+#          Rob Finn (rdf@sanger.ac.uk)
+#
+# This is free software; you can redistribute it and/or modify it under
+# the terms of the GNU General Public License as published by the Free Software
+# Foundation; either version 2 of the License, or (at your option) any later version.
+# This program is distributed in the hope that it will be useful, but WITHOUT
+# ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+# details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <http://www.gnu.org/licenses/>. 
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#      query sequence file: genome.orf.fasta
+#     cpu number specified: 4
+#        searching against: /raid6-storage/reference_data/pfam/Pfam-A.hmm, with cut off --cut_ga
+#    resolve clan overlaps: on
+#     predict active sites: off
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+#
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan>
+
+CP000711.1_8      212    378    211    380 PF00589.15  Phage_integrase   Family     2   171   173    109.0   1.6e-31   1 CL0382   
+CP000711.1_58      14     57     12     61 PF03869.7   Arc               Family     3    46    50     39.5   2.4e-10   1 CL0057   
+CP000711.1_60      14     62     14     63 PF03869.7   Arc               Family     1    49    50     94.8   1.3e-27   1 CL0057   
+CP000711.1_60      65     94     65     94 PF11423.1   Repressor_Mnt     Family     1    30    30     70.2   4.9e-20   1 No_clan  
+CP000711.1_315     14     68     14     68 PF01381.15  HTH_3             Domain     1    55    55     60.2     1e-16   1 CL0123   
+CP000711.1_315    132    204    131    204 PF00717.16  Peptidase_S24     Domain     2    70    70     63.2     1e-17   1 CL0299   
+CP000711.1_326      9     74      9     74 PF11058.1   Ral               Family     1    66    66    158.0   2.1e-47   1 No_clan  
+CP000711.1_335      8     42      8     46 PF02061.9   Lambda_CIII       Family     1    35    45     73.7   6.4e-21   1 No_clan  
+CP000711.1_336     11     53     11     53 PF06301.4   Lambda_Kil        Family     1    43    43     98.9   5.7e-29   1 No_clan  
+CP000711.1_342     20    162     20    176 PF04404.5   ERF               Family     1   149   159    127.7   2.2e-37   1 No_clan  
+CP000711.1_348      7    104      7    104 PF11043.1   DUF2856           Family     1    97    97    198.7   7.6e-60   1 No_clan  
+CP000711.1_356     78    126     78    183 PF04447.5   DUF550            Family     1    55   101     58.3   5.7e-16   1 No_clan  
+CP000711.1_356    147    205    147    205 PF04448.5   DUF551            Family     1    69    69     57.1   1.7e-15   1 No_clan  
+CP000711.1_361     17     49     17     95 PF04266.7   ASCH              Domain     1    30   104     21.7   0.00015   1 CL0178   
+CP000711.1_435     37    126     37    127 PF05269.4   Phage_CII         Family     1    90    91    158.4   2.6e-47   1 CL0123   
+CP000711.1_445     23    140     23    140 PF04492.6   Phage_rep_O       Family     1   100   100    111.6   1.3e-32   1 No_clan  
+CP000711.1_455     25    117     22    117 PF00772.14  DnaB              Domain     6   103   103     47.6   9.4e-13   1 No_clan  
+CP000711.1_455    193    382    192    382 PF03796.8   DnaB_C            Domain     2   185   185    197.6   8.3e-59   1 CL0023   
+CP000711.1_463     15    136     14    136 PF05772.5   NinB              Family     2   127   127    179.7   1.3e-53   1 No_clan  
+CP000711.1_466     21     78     21     78 PF05322.4   NinE              Family     1    58    60    124.0   1.1e-36   1 No_clan  
+CP000711.1_468     25    134     25    134 PF10765.2   DUF2591           Family     1   109   109    123.0   4.7e-36   1 No_clan  
+CP000711.1_469      6     63      6     63 PF05810.5   NinF              Family     1    58    58     99.2   6.2e-29   1 No_clan  
+CP000711.1_473     24    112     23    113 PF09669.3   Phage_pRha        Family     2    91    92     64.8   5.5e-18   1 No_clan  
+CP000711.1_473    137    245    137    246 PF03374.7   ANT               Family     1   111   112    121.8     1e-35   1 No_clan  
+CP000711.1_475     12    105     12    105 PF07102.5   DUF1364           Family     1    94    94    145.8   2.1e-43   1 No_clan  
+CP000711.1_478      9    118      9    118 PF05866.4   RusA              Family     1   116   116     75.0   4.6e-21   1 No_clan  
+CP000711.1_481     25     84     25     86 PF06322.4   Phage_NinH        Family     1    60    64     97.2   2.4e-28   1 No_clan  
+CP000711.1_484     16    149     16    150 PF06530.5   Phage_antitermQ   Family     1   125   126    153.4   1.6e-45   1 CL0123   
+CP000711.1_490      9     99      3     99 PF05106.5   Phage_holin_3     Family    10   100   100    104.5   1.8e-30   1 No_clan  
+CP000711.1_494     34    141     34    142 PF00959.12  Phage_lysozyme    Domain     1   109   110     81.2   4.7e-23   1 CL0037   
+CP000711.1_497     13     70     13     70 PF06085.4   Rz1               Family     1    59    59     92.7   4.7e-27   1 No_clan  
+CP000711.1_498      2    145      2    145 PF03245.6   Phage_lysis       Domain     1   153   153    185.1   5.5e-55   1 CL0331   
+CP000711.1_507     51    142     51    144 PF09669.3   Phage_pRha        Family     1    90    92     85.5   1.8e-24   1 No_clan  
+CP000711.1_507    151    205    148    205 PF10549.2   ORF11CD3          Domain     4    57    57     84.3   2.7e-24   1 No_clan  
+CP000711.1_509      5     84      5     84 PF10834.1   DUF2560           Family     1    80    80    163.5   6.3e-49   1 No_clan  
+CP000711.1_522     25    462     24    462 PF04466.6   Terminase_3       Family     2   387   387    456.2  7.2e-137   1 CL0023   
+CP000711.1_548      7    422      7    422 PF11651.1   P22_CoatProtein   Family     1   414   414    448.1  1.8e-134   1 CL0373   
+CP000711.1_552     19    166     17    170 PF11650.1   P22_Tail-4        Family     4   150   160    227.1   5.7e-68   1 No_clan  
+CP000711.1_561      4    472      4    472 PF11134.1   Phage_stabilise   Family     1   468   468    833.5  2.2e-251   1 No_clan  
+CP000711.1_567      2    152      2    152 PF11039.1   DUF2824           Family     1   151   151    355.6  1.5e-107   1 No_clan  
+CP000711.1_607     28     66     19     68 PF03869.7   Arc               Family     9    47    50     32.3   4.4e-08   1 CL0057   
+CP000711.1_614     29    146     29    146 PF10547.2   P22_AR_N          Domain     1   120   120    176.2   1.4e-52   1 No_clan  
+CP000711.1_614    227    300    227    300 PF10548.2   P22_AR_C          Domain     1    74    74     90.7     3e-26   1 No_clan  
+CP000711.1_624      1    113      1    114 PF09008.3   Head_binding      Domain     1   113   114    220.2     3e-66   1 No_clan  
+CP000711.1_624    146    212    146    212 PF12218.1   End_N_terminal    Domain     1    67    67    125.2   3.7e-37   1 No_clan  
+CP000711.1_624    213    662    213    662 PF12217.1   End_beta_propel   Domain     1   367   367    773.8  1.4e-233   1 CL0434   
+CP000711.1_624    324    406    324    406 PF12195.1   End_beta_barrel   Domain     1    83    83    155.8   1.4e-46   1 No_clan  
+CP000711.1_624    663    817    663    817 PF12219.1   End_tail_spike    Domain     1   160   160    259.8     6e-78   1 No_clan  
