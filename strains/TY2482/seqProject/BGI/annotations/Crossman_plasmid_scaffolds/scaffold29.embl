@@ -1,0 +1,708 @@
+ID   TY2482scaffold29
+FH   Key             Location/Qualifiers
+FH
+FT   fasta_record    1..55174
+FT                   /note="scaffold29"
+FT                   /label=scaffold29
+FT                   /colour=10
+FT   CDS             94..1248
+FT                   /colour=12
+FT                   /product="putative phage integrase"
+FT                   /temporary_systematic_id="TY248202476"
+FT   CDS             94..1248
+FT                   /colour=12
+FT                   /product="putative phage integrase"
+FT                   /temporary_systematic_id="TY248202476"
+FT   CDS             1399..2223
+FT                   /product="putative IncI1 conjugal transfer protein"
+FT                   /gene="traE"
+FT                   /temporary_systematic_id="TY248202477"
+FT                   /colour=3
+FT   CDS             1399..2223
+FT                   /product="putative IncI1 conjugal transfer protein"
+FT                   /gene="traE"
+FT                   /temporary_systematic_id="TY248202477"
+FT                   /colour=3
+FT   CDS             2312..3511
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traF"
+FT                   /temporary_systematic_id="TY248202478"
+FT                   /colour=3
+FT   CDS             2312..3511
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traF"
+FT                   /temporary_systematic_id="TY248202478"
+FT                   /colour=3
+FT   CDS             3643..4155
+FT                   /product="putatative conjugal transfer protein"
+FT                   /gene="traD"
+FT                   /temporary_systematic_id="TY248202479"
+FT                   /colour=3
+FT   CDS             3643..4155
+FT                   /product="putatative conjugal transfer protein"
+FT                   /gene="traD"
+FT                   /temporary_systematic_id="TY248202479"
+FT                   /colour=3
+FT   CDS             4550..5008
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traH"
+FT                   /temporary_systematic_id="TY248202480"
+FT                   /colour=3
+FT   CDS             4550..5008
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traH"
+FT                   /temporary_systematic_id="TY248202480"
+FT                   /colour=3
+FT   CDS             5170..5823
+FT                   /temporary_systematic_id="TY248202481"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traI"
+FT                   /colour=3
+FT   CDS             5170..5823
+FT                   /temporary_systematic_id="TY248202481"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traI"
+FT                   /colour=3
+FT   CDS             5820..6968
+FT                   /temporary_systematic_id="TY248202482"
+FT                   /product="putative conjugal transfer ATPase protein"
+FT                   /gene="traJ"
+FT                   /colour=3
+FT   CDS             5820..6968
+FT                   /temporary_systematic_id="TY248202482"
+FT                   /product="putative conjugal transfer ATPase protein"
+FT                   /gene="traJ"
+FT                   /colour=3
+FT   CDS             complement(7042..7185)
+FT                   /note="length 144"
+FT                   /label=2514
+FT                   /colour=3
+FT                   /temporary_systematic_id="TY248202483"
+FT   CDS             7270..7821
+FT                   /temporary_systematic_id="TY248202484"
+FT                   /product="putative conjugal transfer endonuclease"
+FT                   /colour=2
+FT   CDS             7270..7821
+FT                   /temporary_systematic_id="TY248202484"
+FT                   /product="putative conjugal transfer endonuclease"
+FT                   /colour=2
+FT   CDS             7911..11720
+FT                   /colour=2
+FT                   /temporary_systematic_id="TY248202485"
+FT                   /product="putative DNA primase"
+FT   CDS             7911..11720
+FT                   /colour=2
+FT                   /temporary_systematic_id="TY248202485"
+FT                   /product="putative DNA primase"
+FT   CDS             11738..12085
+FT                   /temporary_systematic_id="TY248202486"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traL"
+FT                   /colour=3
+FT   CDS             11738..12085
+FT                   /temporary_systematic_id="TY248202486"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traL"
+FT                   /colour=3
+FT   CDS             12082..12774
+FT                   /note="length 693"
+FT                   /temporary_systematic_id="TY248202487"
+FT                   /product="putative conjugal transfer protein TraM"
+FT                   /gene="traM"
+FT                   /colour=3
+FT   CDS             12082..12774
+FT                   /note="length 693"
+FT                   /temporary_systematic_id="TY248202487"
+FT                   /product="putative conjugal transfer protein TraM"
+FT                   /gene="traM"
+FT                   /colour=3
+FT   CDS             12785..13768
+FT                   /note="length 984"
+FT                   /temporary_systematic_id="TY248202488"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traN"
+FT                   /colour=3
+FT   CDS             12785..13768
+FT                   /note="length 984"
+FT                   /temporary_systematic_id="TY248202488"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traN"
+FT                   /colour=3
+FT   CDS             13771..15060
+FT                   /note="length 1290"
+FT                   /temporary_systematic_id="TY248202489"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traO"
+FT                   /colour=3
+FT   CDS             13771..15060
+FT                   /note="length 1290"
+FT                   /temporary_systematic_id="TY248202489"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traO"
+FT                   /colour=3
+FT   CDS             15060..15764
+FT                   /note="length 705"
+FT                   /temporary_systematic_id="TY248202490"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traP"
+FT                   /colour=3
+FT   CDS             15060..15764
+FT                   /note="length 705"
+FT                   /temporary_systematic_id="TY248202490"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traP"
+FT                   /colour=3
+FT   CDS             15764..16291
+FT                   /note="length 528"
+FT                   /temporary_systematic_id="TY248202491"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traQ"
+FT                   /colour=3
+FT   CDS             15764..16291
+FT                   /note="length 528"
+FT                   /temporary_systematic_id="TY248202491"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traQ"
+FT                   /colour=3
+FT   CDS             16342..16746
+FT                   /note="length 405"
+FT                   /temporary_systematic_id="TY248202492"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traR"
+FT                   /colour=3
+FT   CDS             16342..16746
+FT                   /note="length 405"
+FT                   /temporary_systematic_id="TY248202492"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traR"
+FT                   /colour=3
+FT   CDS             16810..16998
+FT                   /note="length 189"
+FT                   /temporary_systematic_id="TY248202493"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traS"
+FT                   /colour=3
+FT   CDS             16810..16998
+FT                   /note="length 189"
+FT                   /temporary_systematic_id="TY248202493"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traS"
+FT                   /colour=3
+FT   CDS             16982..17782
+FT                   /note="length 801"
+FT                   /temporary_systematic_id="TY248202494"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traT"
+FT                   /colour=3
+FT   CDS             16982..17782
+FT                   /note="length 801"
+FT                   /temporary_systematic_id="TY248202494"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traT"
+FT                   /colour=3
+FT   CDS             17872..20916
+FT                   /note="length 3045"
+FT                   /temporary_systematic_id="TY248202495"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traU"
+FT                   /colour=3
+FT   CDS             17872..20916
+FT                   /note="length 3045"
+FT                   /temporary_systematic_id="TY248202495"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traU"
+FT                   /colour=3
+FT   CDS             20916..21530
+FT                   /note="length 615"
+FT                   /temporary_systematic_id="TY248202496"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traV"
+FT                   /colour=3
+FT   CDS             20916..21530
+FT                   /note="length 615"
+FT                   /temporary_systematic_id="TY248202496"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traV"
+FT                   /colour=3
+FT   CDS             21620..22699
+FT                   /note="length 1080"
+FT                   /temporary_systematic_id="TY248202497"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traW"
+FT                   /colour=3
+FT   CDS             21620..22699
+FT                   /note="length 1080"
+FT                   /temporary_systematic_id="TY248202497"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traW"
+FT                   /colour=3
+FT   CDS             22728..23312
+FT                   /note="length 585"
+FT                   /temporary_systematic_id="TY248202498"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traX"
+FT                   /colour=3
+FT   CDS             22728..23312
+FT                   /note="length 585"
+FT                   /temporary_systematic_id="TY248202498"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traX"
+FT                   /colour=3
+FT   CDS             23409..25577
+FT                   /note="length 2169"
+FT                   /temporary_systematic_id="TY248202499"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traY"
+FT                   /colour=3
+FT   CDS             23409..25577
+FT                   /note="length 2169"
+FT                   /temporary_systematic_id="TY248202499"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="traY"
+FT                   /colour=3
+FT   CDS             25653..26267
+FT                   /note="length 615"
+FT                   /temporary_systematic_id="TY248202500"
+FT                   /product="putative surface exclusion protein"
+FT                   /gene="excA"
+FT                   /colour=3
+FT   CDS             25653..26267
+FT                   /note="length 615"
+FT                   /temporary_systematic_id="TY248202500"
+FT                   /product="putative surface exclusion protein"
+FT                   /gene="excA"
+FT                   /colour=3
+FT   CDS             26365..26574
+FT                   /note="length 210"
+FT                   /temporary_systematic_id="TY248202501"
+FT                   /product="putative hemolysin expression modulating
+FT                   protein"
+FT                   /gene="rmoA"
+FT                   /colour=9
+FT   CDS             26365..26574
+FT                   /note="length 210"
+FT                   /temporary_systematic_id="TY248202501"
+FT                   /product="putative hemolysin expression modulating
+FT                   protein"
+FT                   /gene="rmoA"
+FT                   /colour=9
+FT   CDS             26617..26760
+FT                   /note="length 144"
+FT                   /temporary_systematic_id="TY248202502"
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT   CDS             26617..26760
+FT                   /note="length 144"
+FT                   /temporary_systematic_id="TY248202502"
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT   CDS             26757..26933
+FT                   /note="length 177"
+FT                   /temporary_systematic_id="TY248202503"
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT   CDS             26757..26933
+FT                   /note="length 177"
+FT                   /temporary_systematic_id="TY248202503"
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT   CDS             complement(26998..27294)
+FT                   /note="length 297"
+FT                   /temporary_systematic_id="TY248202504"
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT   CDS             complement(26998..27294)
+FT                   /note="length 297"
+FT                   /temporary_systematic_id="TY248202504"
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT   CDS             27594..27845
+FT                   /note="length 252"
+FT                   /temporary_systematic_id="TY248202505"
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT   CDS             27594..27845
+FT                   /note="length 252"
+FT                   /temporary_systematic_id="TY248202505"
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT   CDS             28390..29475
+FT                   /note="length 1086"
+FT                   /temporary_systematic_id="TY248202506"
+FT                   /gene="finQ"
+FT                   /product="putative transcriptional inhibitor of conjugal
+FT                   transfer genes"
+FT                   /colour=9
+FT   CDS             28390..29475
+FT                   /note="length 1086"
+FT                   /temporary_systematic_id="TY248202506"
+FT                   /gene="finQ"
+FT                   /product="putative transcriptional inhibitor of conjugal
+FT                   transfer genes"
+FT                   /colour=9
+FT   CDS             29782..30990
+FT                   /note="length 1209"
+FT                   /temporary_systematic_id="TY248202507"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="trbA"
+FT                   /colour=3
+FT   CDS             29782..30990
+FT                   /note="length 1209"
+FT                   /temporary_systematic_id="TY248202507"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="trbA"
+FT                   /colour=3
+FT   CDS             31009..32079
+FT                   /note="length 1071"
+FT                   /temporary_systematic_id="TY248202508"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="trbB"
+FT                   /colour=3
+FT   CDS             31009..32079
+FT                   /note="length 1071"
+FT                   /temporary_systematic_id="TY248202508"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="trbB"
+FT                   /colour=3
+FT   CDS             32072..34363
+FT                   /note="length 2292"
+FT                   /temporary_systematic_id="TY248202509"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="trbC"
+FT                   /colour=3
+FT   CDS             32072..34363
+FT                   /note="length 2292"
+FT                   /temporary_systematic_id="TY248202509"
+FT                   /product="putative conjugal transfer protein"
+FT                   /gene="trbC"
+FT                   /colour=3
+FT   CDS             complement(34400..37015)
+FT                   /note="length 2616"
+FT                   /temporary_systematic_id="TY248202510"
+FT                   /product="putative relaxase/mobilization nuclease"
+FT                   /gene="nikB"
+FT                   /colour=2
+FT   CDS             complement(34400..37015)
+FT                   /note="length 2616"
+FT                   /temporary_systematic_id="TY248202510"
+FT                   /product="putative relaxase/mobilization nuclease"
+FT                   /gene="nikB"
+FT                   /colour=2
+FT   CDS             complement(37110..37442)
+FT                   /note="length 333"
+FT                   /temporary_systematic_id="TY248202511"
+FT                   /product="putative relaxosome"
+FT                   /gene="nikA"
+FT                   /colour=2
+FT   CDS             complement(37110..37442)
+FT                   /note="length 333"
+FT                   /temporary_systematic_id="TY248202511"
+FT                   /product="putative relaxosome"
+FT                   /gene="nikA"
+FT                   /colour=2
+FT   CDS             37676..38011
+FT                   /note="length 336"
+FT                   /temporary_systematic_id="TY248202512"
+FT                   /product="putative mobilisation protein"
+FT                   /colour=3
+FT   CDS             37676..38011
+FT                   /note="length 336"
+FT                   /temporary_systematic_id="TY248202512"
+FT                   /product="putative mobilisation protein"
+FT                   /colour=3
+FT   CDS             complement(38098..38946)
+FT                   /note="length 849"
+FT                   /temporary_systematic_id="TY248202513"
+FT                   /product="conserved hypothetical protein"
+FT                   /gene="yidA"
+FT                   /colour=10
+FT   CDS             complement(38098..38946)
+FT                   /note="length 849"
+FT                   /temporary_systematic_id="TY248202513"
+FT                   /product="conserved hypothetical protein"
+FT                   /gene="yidA"
+FT                   /colour=10
+FT   CDS             39346..39492
+FT                   /note="length 147"
+FT                   /temporary_systematic_id="TY248202514"
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT   CDS             39346..39492
+FT                   /note="length 147"
+FT                   /temporary_systematic_id="TY248202514"
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT   CDS             39526..39777
+FT                   /note="length 252"
+FT                   /temporary_systematic_id="TY248202515"
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT   CDS             39526..39777
+FT                   /note="length 252"
+FT                   /temporary_systematic_id="TY248202515"
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT   CDS             complement(39808..40014)
+FT                   /note="length 207"
+FT                   /temporary_systematic_id="TY248202516"
+FT                   /product="conserved hypothetical protein"
+FT                   /gene="ydgA"
+FT                   /colour=10
+FT   CDS             complement(39808..40014)
+FT                   /note="length 207"
+FT                   /temporary_systematic_id="TY248202516"
+FT                   /product="conserved hypothetical protein"
+FT                   /gene="ydgA"
+FT                   /colour=10
+FT   CDS             complement(40076..40990)
+FT                   /note="length 915"
+FT                   /temporary_systematic_id="TY248202517"
+FT                   /product="putative transposase"
+FT                   /colour=12
+FT   CDS             complement(40076..40990)
+FT                   /note="length 915"
+FT                   /temporary_systematic_id="TY248202517"
+FT                   /product="putative transposase"
+FT                   /colour=12
+FT   CDS             complement(40987..41376)
+FT                   /note="length 390"
+FT                   /temporary_systematic_id="TY248202518"
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT   CDS             complement(40987..41376)
+FT                   /note="length 390"
+FT                   /temporary_systematic_id="TY248202518"
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT   CDS             complement(41553..41819)
+FT                   /note="length 267"
+FT                   /temporary_systematic_id="TY248202519"
+FT                   /product="conserved hypothetical protein"
+FT                   /gene="ydfD"
+FT                   /colour=10
+FT   CDS             complement(41553..41819)
+FT                   /note="length 267"
+FT                   /temporary_systematic_id="TY248202519"
+FT                   /product="conserved hypothetical protein"
+FT                   /gene="ydfD"
+FT                   /colour=10
+FT   CDS             complement(41913..42347)
+FT                   /note="length 435"
+FT                   /gene="ydfA"
+FT                   /temporary_systematic_id="TY248202520"
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT   CDS             complement(41913..42347)
+FT                   /note="length 435"
+FT                   /gene="ydfA"
+FT                   /temporary_systematic_id="TY248202520"
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT   CDS             complement(42373..42615)
+FT                   /colour=10
+FT                   /product="conserved hypothetical protein"
+FT                   /temporary_systematic_id="TY248202521"
+FT   CDS             complement(42373..42615)
+FT                   /note="4***feature_sequence_is_unchanged_but_different_neighbors_old_location=complement(42337..42579)"
+FT                   /colour=4
+FT                   /colour=10
+FT                   /product="conserved hypothetical protein"
+FT                   /temporary_systematic_id="TY248202521"
+FT   CDS             complement(42612..42758)
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT                   /temporary_systematic_id="TY248202521A"
+FT   CDS             complement(43128..43979)
+FT                   /product="putative antirestriction protein"
+FT                   /gene="ardA"
+FT                   /note="contains DUF1472 domain"
+FT                   /colour=2
+FT   fasta_record    43818..49247
+FT                   /note="2***feature_sequence_has_changed_old_location=1..5430"
+FT                   /note="98 5430"
+FT                   /colour=4
+FT                   /colour=11
+FT                   /label=98 5430
+FT   fasta_record    43818..49247
+FT                   /note="2***feature_sequence_has_changed_old_location=1..5430"
+FT                   /note="98 5430"
+FT                   /colour=4
+FT                   /colour=11
+FT                   /label=98 5430
+FT   CDS             complement(44051..44647)
+FT                   /temporary_systematic_id="TY248203291"
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT   CDS             complement(44051..44647)
+FT                   /temporary_systematic_id="TY248203291"
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT   CDS             complement(44644..45363)
+FT                   /note="length 720"
+FT                   /note="thought to have a role in plasmid SOS functions"
+FT                   /label=3341
+FT                   /colour=2
+FT                   /temporary_systematic_id="TY248203292"
+FT                   /gene="psiA"
+FT                   /product="conserved hypothetical protein"
+FT   CDS             complement(44644..45363)
+FT                   /note="length 720"
+FT                   /note="thought to have a role in plasmid SOS functions"
+FT                   /label=3341
+FT                   /colour=2
+FT                   /temporary_systematic_id="TY248203292"
+FT                   /gene="psiA"
+FT                   /product="conserved hypothetical protein"
+FT   CDS             complement(45360..45797)
+FT                   /note="length 438"
+FT                   /note="relating to conjugal transfer regulation"
+FT                   /label=3342
+FT                   /colour=2
+FT                   /temporary_systematic_id="TY248203293"
+FT                   /product="putative plasmid SOS inhibition protein"
+FT   CDS             complement(45360..45797)
+FT                   /note="length 438"
+FT                   /note="relating to conjugal transfer regulation"
+FT                   /label=3342
+FT                   /colour=2
+FT                   /temporary_systematic_id="TY248203293"
+FT                   /product="putative plasmid SOS inhibition protein"
+FT   CDS             complement(45849..47807)
+FT                   /note="length 1959"
+FT                   /label=3343
+FT                   /colour=2
+FT                   /gene="parB"
+FT                   /temporary_systematic_id="TY248203294"
+FT                   /product="putative parB nuclease protein"
+FT   CDS             complement(45849..47807)
+FT                   /note="length 1959"
+FT                   /label=3343
+FT                   /colour=2
+FT                   /gene="parB"
+FT                   /temporary_systematic_id="TY248203294"
+FT                   /product="putative parB nuclease protein"
+FT   CDS             complement(47866..48099)
+FT                   /note="length 234"
+FT                   /label=3344
+FT                   /colour=13
+FT                   /temporary_systematic_id="TY248203295"
+FT                   /product="putative DUF905 domain protein"
+FT   CDS             complement(47866..48099)
+FT                   /note="length 234"
+FT                   /label=3344
+FT                   /colour=13
+FT                   /temporary_systematic_id="TY248203295"
+FT                   /product="putative DUF905 domain protein"
+FT   CDS             complement(48157..48684)
+FT                   /colour=2
+FT                   /label=3345
+FT                   /temporary_systematic_id="TY248203296"
+FT                   /product="putative single-strand binding protein"
+FT   CDS             complement(48157..48684)
+FT                   /note="length 528"
+FT                   /colour=2
+FT                   /label=3345
+FT                   /temporary_systematic_id="TY248203296"
+FT                   /product="putative single-strand binding protein"
+FT   CDS             complement(49107..49541)
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT                   /gene="ychA"
+FT                   /temporary_systematic_id="TY248203296A"
+FT   CDS             complement(49665..50063)
+FT                   /product="conserved hypothetical protein"
+FT                   /colour=10
+FT                   /temporary_systematic_id="TY248203296B"
+FT   CDS             complement(50143..50535)
+FT                   /gene="yciB"
+FT                   /colour=2
+FT                   /product="putative antirestriction protein"
+FT                   /temporary_systematic_id="TY248203296C"
+FT   CDS             complement(50501..50974)
+FT                   /temporary_systematic_id="TY248202469"
+FT                   /product="putative DUF1472 domain protein"
+FT                   /colour=13
+FT                   /note="some hits to antirestriction proteins"
+FT   CDS             complement(50949..51725)
+FT                   /note="length 777"
+FT                   /label=2501
+FT                   /colour=10
+FT                   /temporary_systematic_id="TY248202470"
+FT                   /product="conserved hypothetical protein"
+FT                   /gene="ychA"
+FT   CDS             complement(50949..51725)
+FT                   /note="length 777"
+FT                   /label=2501
+FT                   /colour=10
+FT                   /temporary_systematic_id="TY248202470"
+FT                   /product="conserved hypothetical protein"
+FT                   /gene="ychA"
+FT   CDS             complement(51771..52205)
+FT                   /note="length 435"
+FT                   /label=2502
+FT                   /colour=13
+FT                   /temporary_systematic_id="TY248202471"
+FT                   /product="putative DUF1380 domain protein"
+FT   CDS             complement(51771..52205)
+FT                   /note="length 435"
+FT                   /label=2502
+FT                   /colour=13
+FT                   /temporary_systematic_id="TY248202471"
+FT                   /product="putative DUF1380 domain protein"
+FT   CDS             complement(52219..52440)
+FT                   /note="length 222"
+FT                   /label=2503
+FT                   /colour=10
+FT                   /temporary_systematic_id="TY248202472"
+FT                   /product="conserved hypothetical protein"
+FT   CDS             complement(52219..52440)
+FT                   /note="length 222"
+FT                   /label=2503
+FT                   /colour=10
+FT                   /temporary_systematic_id="TY248202472"
+FT                   /product="conserved hypothetical protein"
+FT   CDS             complement(52441..53124)
+FT                   /note="length 684"
+FT                   /note="match to a protein involved with hemagglutinins in
+FT                   E.coli"
+FT                   /label=2504
+FT                   /colour=2
+FT                   /temporary_systematic_id="TY248202473"
+FT                   /product="putative DNA methylase"
+FT   CDS             complement(52441..53124)
+FT                   /note="length 684"
+FT                   /note="match to a protein involved with hemagglutinins in
+FT                   E.coli"
+FT                   /label=2504
+FT                   /colour=2
+FT                   /temporary_systematic_id="TY248202473"
+FT                   /product="putative DNA methylase"
+FT   CDS             complement(53509..54435)
+FT                   /note="length 927"
+FT                   /label=2505
+FT                   /colour=13
+FT                   /temporary_systematic_id="TY248202474"
+FT                   /product="putative DUF1281 domain protein"
+FT   CDS             complement(53509..54435)
+FT                   /note="length 927"
+FT                   /label=2505
+FT                   /colour=13
+FT                   /temporary_systematic_id="TY248202474"
+FT                   /product="putative DUF1281 domain protein"
+FT   CDS             54830..55078
+FT                   /note="length 249"
+FT                   /note="involved in SOS response"
+FT                   /colour=3
+FT                   /label=2506
+FT                   /temporary_systematic_id="TY248202475"
+FT                   /product="putative DinI family damage inducible protein"
+FT   CDS             54830..55078
+FT                   /note="4***feature_sequence_is_unchanged_but_different_neighbors_old_location=4066..4314"
+FT                   /note="length 249"
+FT                   /note="involved in SOS response"
+FT                   /colour=4
+FT                   /colour=3
+FT                   /label=2506
+FT                   /temporary_systematic_id="TY248202475"
+FT                   /product="putative DinI family damage inducible protein"
+//
