@@ -1,0 +1,594 @@
+>001|wrbA_trunc|AP010960|E.coli AP010960.1[1244152:1244205:r] truncated
+atggctaaagttctggtgctttattattccatgtacggacatattgaaaccatg--------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------------------
+>002|wrbA_trunc|AP010953|E.coli AP010953.1[1270929:1270982:r] truncated
+atggctaaagttctggtgctttattattccatgtacggacatattgaaaccatg--------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------------------
+>003|wrbA_trunc|CU928162|E.coli CU928162.2[1164287:1164340:r] truncated
+atggctaaagttctggtgctttattattccatgtacggacatattgaaaccatg--------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------------------
+>004|wrbA_trunc|AE005174|E.coli AE005174.2[1392488:1392541:r] truncated
+atggctaaagttctggtgctttattattccatgtacggacatattgaaaccatg--------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------------------
+>005|wrbA_trunc|BA000007|E.coli BA000007.2[1308716:1308769:r] truncated
+atggctaaagttctggtgctttattattccatgtacggacatattgaaaccatg--------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------------------
+>006|wrbA_trunc|AP000422|E.coli AP000422.1[63254:63307:r] truncated
+atggctaaagttctggtgctttattattccatgtacggacatattgaaaccatg--------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------------------
+>007|wrbA_trunc|AFOB01000188|E.coli AFOB01000188.1[29:82] truncated
+atggctaaagttctggtgctttattattccatgtacggacatattgaaaccatg--------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------------------
+>008|wrbA_trunc|AFOG01000108|E.coli AFOG01000108.1[29330:29383] truncated
+atggctaaagttctggtgctttattattccatgtacggacatattgaaaccatg--------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------------------
+>066|wrbA|scaffold00001|E.coli scaffold00001[559460:559513:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaaccatg--------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------------------
+>009|wrbA_trunc|AFOB01000143|E.coli AFOB01000143.1[5370:5446] truncated
+-------------------------------------gacatgttgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtcgatggcgcagaagttgtcgttaagcgt--------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------------------
+>010|wrbA|AP010953|E.coli AP010953.1[1558423:1558982:r]
+-------------------------------------gtcatgttgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtcgatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>011|wrbA|AP010960|E.coli AP010960.1[1183009:1183568:r]
+-------------------------------------gacatgttgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtcgatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>012|wrbA_trunc|AFOG01000027|E.coli AFOG01000027.1[82032:82591:r] truncated
+-------------------------------------gacatgttgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtcgatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>065|wrbA|scaffold00001|E.coli scaffold00001[498032:498591:r]
+-------------------------------------gacatgttgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtcgatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>013|wrbA|CP000038|S.sonnei CP000038.1[1087552:1088148:r]
+aaggcaagaatactagtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtcgatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>014|wrbA|CP000946|E.coli CP000946.1[2842025:2842621]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaacaaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>015|wrbA|CP001509|E.coli CP001509.3[1071393:1071989:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaacaaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>016|wrbA|CP001665|E.coli CP001665.1[2710396:2710992]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaacaaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>017|wrbA|CP000819|E.coli CP000819.1[1083395:1083991:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaacaaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>018|wrbA|AM946981|E.coli AM946981.2[1071387:1071983:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaacaaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>019|wrbA|CP000802|E.coli CP000802.1[1128130:1128726:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaacaaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>020|wrbA|CU928145|E.coli CU928145.2[1175719:1176315:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtcgatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>021|wrbA|CU928160|E.coli CU928160.2[1118717:1119313:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtcgatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>022|wrbA|AP010958|E.coli AP010958.1[1152388:1152984:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtcgatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>023|wrbA|CP002185|E.coli CP002185.1[1174462:1175058:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtcgatggcgcagaagttgtcgttaagcgcgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>024|wrbA|AP009240|E.coli AP009240.1[1150388:1150984:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtcgatggcgcagaagttgtcgttaagcgcgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>025|wrbA|CP000800|E.coli CP000800.1[1144936:1145532:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtcgatggcgcagaagttgtcgttaagcgcgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>026|wrbA|CP002516|E.coli CP002516.1[2930428:2931024]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtcgatggcgcagaagttgtcgttaagcgcgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>027|wrbA|CP002729|E.coli CP002729.1[1166359:1166955:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccctattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>028|wrbA|CU928164|E.coli CU928164.2[2195848:2196444]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggtgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggtggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccat
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>029|wrbA|FN554766|E.coli FN554766.1[1165485:1166081:r]
+atggctaaagttctggtgctttattattccatgtacggacatatcgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>030|wrbA|CU928163|E.coli CU928163.2[1240184:1240780:r]
+atggctaaagttctggtgctttattattccatgtacggacatatcgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggtgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>031|wrbA|CP000266|S.flexneri CP000266.1[1063997:1064593:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>032|wrbA|AE005674|S.flexneri AE005674.1[1055413:1056009:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>033|wrbA|CP001383|S.flexneri CP001383.1[1065341:1065937:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>034|wrbA|AE014073|S.flexneri AE014073.1[1059645:1060241:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>035|wrbA|CP000970|E.coli CP000970.1[2128923:2129519]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggtgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>036|wrbA|CU928161|E.coli CU928161.2[1056869:1057465:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagttgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggtaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>037|wrbA|CP001671|E.coli CP001671.1[1075606:1076202:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagttgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggtaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>038|wrbA|CP000247|E.coli CP000247.1[1061700:1062296:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagttgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggtaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>039|wrbA|AE014075|E.coli AE014075.1[1100781:1101377:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagttgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggtaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>040|wrbA|CP002167|E.coli CP002167.1[2587423:2588019]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagttgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggtaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>041|wrbA|CP001855|E.coli CP001855.1[1045340:1045936:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagttgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggtaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>042|wrbA|CU651637|E.coli CU651637.1[1047477:1048073:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagttgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggtaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>043|wrbA|FM180568|E.coli FM180568.1[1100357:1100953:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagttgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggtaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>044|wrbA|CP000243|E.coli CP000243.1[1054324:1054920:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagttgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggtaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>045|wrbA|CP000468|E.coli CP000468.1[1053281:1053877:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagttgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggtaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>046|wrbA|CP001969|E.coli CP001969.1[1097420:1098016:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagttgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggtaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>047|wrbA|AP009378|E.coli AP009378.1[1015535:1016131:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gctcgcgcagttgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggtaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>048|wrbA|CP002797|E.coli CP002797.1[1110527:1111123:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gctcgcgcagttgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggtaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>049|wrbA_ref|U00096|E.coli U00096.2[1066335:1066931:r] reference
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgctgaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtaattgtccctattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>050|wrbA|AP009048|E.coli AP009048.1[1067534:1068130:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgctgaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtaattgtccctattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>051|wrbA|CP001637|E.coli CP001637.1[2813411:2814007]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgctgaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtaattgtccctattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>052|wrbA|CP001396|E.coli CP001396.1[969303:969899:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgctgaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtaattgtccctattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>053|wrbA|AP012030|E.coli AP012030.1[1057440:1058036:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgctgaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtaattgtccctattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>054|wrbA|CP000948|E.coli CP000948.1[1120263:1120859:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgctgaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtaattgtccctattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>055|wrbA|FN649414|E.coli FN649414.1[1172576:1173172:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgctgaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtaattgtccctattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>056|wrbA|CP001846|E.coli CP001846.1[1292867:1293463:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgctgaagttgtcgttaagcgtgtaccggaaaccatgtcgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaatggctaa
+>057|wrbA|CP001164|E.coli CP001164.1[1250498:1251094:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgctgaagttgtcgttaagcgtgtaccggaaaccatgtcgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccaattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaatggctaa
+>058|wrbA|CP001368|E.coli CP001368.1[1250784:1251380:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgctgaagttgtcgttaagcgtgtaccggaaaccatgtcgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccaattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaatggctaa
+>059|wrbA|CP000034|S.dysenteriae CP000034.1[929381:929977:r]
+atgactaaagttctggtactttattattccatgtacggacatattgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgctgaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcatccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacgtggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaatggctaa
+>060|wrbA_trunc|AE005174|E.coli AE005174.2[1330282:1330841:r] truncated
+-------------------------------------gacatgttgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgctgaagttgtcgttaagcgtgtaccggaaaccatgtcgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccaattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaatggctaa
+>061|wrbA_trunc|BA000007|E.coli BA000007.2[1245465:1246024:r] truncated
+-------------------------------------gacatgttgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgctgaagttgtcgttaagcgtgtaccggaaaccatgtcgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccaattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaatggctaa
+>062|wrbA_trunc|AP000422|E.coli AP000422.1[8:567:r] truncated
+-------------------------------------gacatgttgaaacgatg--gcacgcgcagtcgctgagggtgca
+agcaaagtggatggcgctgaagttgtcgttaagcgtgtaccggaaaccatgtcgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccaattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaatggctaa
+>063|wrbA_trunc|CU928162|E.coli CU928162.2[1100988:1101547:r] truncated
+-------------------------------------gacatgttgaaacgatg--gcacgcgcagttgctgagggtgca
+agcaaagtggatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggtaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaaccatcacatccacctggacgacccttgcgca
+tcacggcatggtgattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggttcacgccagcccagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
+>064|wrbA|AFOB01000030|E.coli AFOB01000030.1[35451:36049:r]
+atggctaaagttctggtgctttattattccatgtacggacatattgaaaccatgaagcacgcgcagtcgctgagggtgca
+agcaaagtcgatggcgcagaagttgtcgttaagcgtgtaccggaaaccatgccgccgcaattatttgaaaaagcaggcgg
+taaaacgcaaactgcaccggttgcaaccccgcaagaactggccgattacgacgccattatttttggtacacctacccgct
+ttggcaacatgtccggtcaaatgcgtaccttcctcgaccagacgggcggcctgtgggcttccggcgcactatacggaaaa
+ctggcgagcgtctttagttccaccggtactggcggcggtcaggaacaaactattacttcaacctggacgacccttgcgca
+tcacggcatggtaattgtccccattggctacgcagcgcaggaattatttgacgtttcacaggttcgcggcggtacgccgt
+acggcgcaaccaccatcgcaggcggtgacggctcacgccagccaagccaggaagaactgtctattgctcgttatcaaggg
+gaatatgtcgcaggtctggcagttaaacttaacggctaa
