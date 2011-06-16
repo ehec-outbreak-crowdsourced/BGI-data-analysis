@@ -1,0 +1,29 @@
+ID   contig00237   standard;  DNA; PLN; 374 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS1
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..374
+FT                   /organism="Escherichia coli GOS1"
+FT                   /mol_type="genomic DNA"
+FT   gene             40..219
+FT                   /gene="RGOS05178"
+FT   CDS             40..219
+FT                   /gene="RGOS05178"
+FT                   /product="InsH:IS5 transposase and trans-activator"
+FT                   /translation="MKASIRARVEHPFRIIKRQFGFVKARYKGLLKNDNQLAMLFTLAN
+FT                   LFRVDQMIRQWERSQ"
+XX
+SQ   contig00237 374 BP; 119 A; 88 C; 92 G; 75 T; 0 N; 
+     AATCCGCGCA AGAACAAAAC GGCCATCAAC ATCGAATACA TGAAAGCCAG CATCCGTGCC           60
+     AGGGTGGAGC ACCCGTTTCG CATCATCAAG CGGCAGTTCG GCTTCGTGAA AGCCAGATAC          120
+     AAGGGGCTGC TGAAAAACGA TAACCAACTG GCGATGTTAT TCACCCTGGC CAACCTGTTT          180
+     CGGGTGGACC AAATGATACG TCAGTGGGAG AGATCTCAGT AAAAACCGGA AATAACGCCA          240
+     GAAATGGTGG AAAAAATAGC CTAAATAGGC TGATTCGATG TGTTTGCGGG AAAAAAaTCG          300
+     GCCCAGATCC GCGAAATTTT AATCAGCGAG TCAACTTGGG AAGAAATGAC CTGCTTATTC          360
+     GCACCTTCCC TAGT                                                       420
+//

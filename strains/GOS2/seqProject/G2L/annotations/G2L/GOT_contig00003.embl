@@ -1,0 +1,19 @@
+ID   contig00003   standard;  DNA; PLN; 183 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS2
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..183
+FT                   /organism="Escherichia coli GOS2"
+FT                   /mol_type="genomic DNA"
+XX
+SQ   contig00003 183 BP; 43 A; 47 C; 49 G; 44 T; 0 N; 
+     GTGAAAAGCA AGGCGTCTTG CGAAGCAGAC TGATACGTCC CCTTCGTCTA GAGGCCCAGG           60
+     ACACCGCCCT TTCACGGCGG TAACAGGGGT TCGAATCCCC TAGGGGACGC CACTTGCTGG          120
+     TTTGTGAGTG AAAGTCACCT GCCTTAATAT CTCAAAACTC ATCTTCGGGT GATGTTTGAG          180
+     ATA                                                                  240
+//

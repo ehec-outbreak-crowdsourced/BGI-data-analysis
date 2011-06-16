@@ -1,0 +1,27 @@
+ID   contig00281   standard;  DNA; PLN; 283 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS2
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..283
+FT                   /organism="Escherichia coli GOS2"
+FT                   /mol_type="genomic DNA"
+FT   gene             complement(19..282)
+FT                   /gene="RGOT05025"
+FT   CDS             complement(19..282)
+FT                   /gene="RGOT05025"
+FT                   /product="Insertion element IS1 protein insB"
+FT                   /translation="MATLGRLMSLLSPFDVVIWMTDGWPLYESRLKGKLHVISKRYTQR
+FT                   IERHNLNLRQHLARLGRKSLSFSKSVELHDKVIGHYLNIKHYQ"
+XX
+SQ   contig00281 283 BP; 63 A; 82 C; 65 G; 73 T; 0 N; 
+     GGTAATGACT CCAACTTATT GATAGTGTTT TATGTTCAGA TAATGCCCGA TGACTTTGTC           60
+     ATGCAGCTCC ACCGATTTTG AGAACGACAG CGACTTCCGT CCCAGCcGTG CCAGGTGCTG          120
+     CCTCAGATTC AGGTTATGCC GCTCAATTCG CTGCGTATAT CGCTTGCTGA TTACGTGCAG          180
+     CTTTCCCTTC AGGCGGGATT CATACAGCGG CCAGCCATCC GTCATCCATA TCACCACGTC          240
+     AAAGGGTGAC AGCAGGCTCA TAAGACGCCC CAGCGTCGCC ATA                          300
+//

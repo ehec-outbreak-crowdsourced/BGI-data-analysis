@@ -1,0 +1,31 @@
+ID   contig00205   standard;  DNA; PLN; 486 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS2
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..486
+FT                   /organism="Escherichia coli GOS2"
+FT                   /mol_type="genomic DNA"
+FT   gene             182..394
+FT                   /gene="RGOT04284"
+FT   CDS             182..394
+FT                   /gene="RGOT04284"
+FT                   /product="putative IS element protein"
+FT                   /translation="MAENRVEANAHNAGSCPASNAIHGHINDFLVRTGLRSGVSELQLP
+FT                   CFTAVRAEIALMSGGAFAVTHHPVSS"
+XX
+SQ   contig00205 486 BP; 117 A; 135 C; 130 G; 104 T; 0 N; 
+     GTGCGTTCAC CGAATACGTG CGCAACAACC GTCTTCCGGA GCCTGTCATA CGCGTAAAAC           60
+     AGCCAGCGCT GGCGCGATTT AGCCCCGACg TAtCCCCACT GTTCGTCCAT TTCCGCGCAG          120
+     ACGATGACGT CACTGCCCGG CTGTATGCGC GAGGTTACCG ACTGCGGCCT GAGTTTTTtA          180
+     AaTGgCGgAA AATCGTGTTG AGGCCAACGC CCATAATGCG GGCagTTGCC CGGCATCCAA          240
+     CGCCATTCAT GGCCATATCA ATGATTTTCT GGTGCGTACC GGGTTGAGAA GCGGTGTAAG          300
+     TGAACTGCAG TTGCCATGTT TTACGGCAGT GAGAGCAGAG ATAGCGCTGA TGTCCGGCGG          360
+     TGCTTTTGCC GTTACGCACC ACCCCGTCAG TAGCTGAACA GGAGGGACAG CTGATAGAAA          420
+     CAGAAGCCAC TGGAGCACCT CAAAAaCACC ATCATACACT AAATCAGTAA GTTGGCAGCA          480
+     TCACCC                                                               540
+//

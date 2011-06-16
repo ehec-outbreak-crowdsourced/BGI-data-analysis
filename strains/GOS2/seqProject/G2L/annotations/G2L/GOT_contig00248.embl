@@ -1,0 +1,26 @@
+ID   contig00248   standard;  DNA; PLN; 258 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS2
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..258
+FT                   /organism="Escherichia coli GOS2"
+FT                   /mol_type="genomic DNA"
+FT   gene             19..150
+FT                   /gene="RGOT04771"
+FT   CDS             19..150
+FT                   /gene="RGOT04771"
+FT                   /product="LdrB:small toxic polypeptide"
+FT                   /translation="MLSLQQGGYMTLAKFAMIFWHDLAAPILAGIITAAIVGWWRNRK"
+XX
+SQ   contig00248 258 BP; 62 A; 64 C; 73 G; 59 T; 0 N; 
+     TTCAAGAATA GCCGCAAAAT GTTGTCATTA CAACAAGGCG GCTATATGAC GCTCGCGAaG           60
+     TTTGCCATGA TTTtCTGGCA CGACCTGGCA GCACCGATCC TGGCGGGGAT TATTACCGCA          120
+     GCGATTGTCG gCTGGTGGCG TAACCGGAAG TAAGGTGAAA ACGGGCGTCA GGCTGCCGTG          180
+     ATGGCAATAT GCGCCCGAAA CCGGCCGCAG GGGTAACAGC CTGCGGCCAT TTTTGTCTTT          240
+     ATCTCTTCCA CAAGTAAA                                                   300
+//

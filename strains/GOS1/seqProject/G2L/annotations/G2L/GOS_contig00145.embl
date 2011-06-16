@@ -1,0 +1,32 @@
+ID   contig00145   standard;  DNA; PLN; 548 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS1
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..548
+FT                   /organism="Escherichia coli GOS1"
+FT                   /mol_type="genomic DNA"
+FT   gene             complement(210..356)
+FT                   /gene="RGOS02493"
+FT   CDS             complement(210..356)
+FT                   /gene="RGOS02493"
+FT                   /product="Shufflon protein A"
+FT                   /translation="MNASNNPAYGKTAFISFAVPAGTSYQITSYPTENTSCGAGVFSVF
+FT                   GYQT"
+XX
+SQ   contig00145 548 BP; 156 A; 130 C; 123 G; 139 T; 0 N; 
+     ACGTGGGGGA CAATAGGTGG AAAACTCAAA GTTACTCAGC TTTCCACCAC AGGTTATCTG           60
+     GGGCAATTCG ACTTCTGTGC CATTGCCAGA ATGGGCAACG CAGAGGATGC CCACTACTGC          120
+     CAGGTAGTTG AGAGCCCAGC AGGTTCACGC AAATGGTACA AATACGAGCA TAAGACAGGT          180
+     TGTATTGCGT CGTGTGTAAC GCTCAATTAA GTTTGATATC CAAaTACTGA AAaTACCCCG          240
+     GCACCACATG ATGTATTTTC TGTTGGATAG GATGTTATCT GATAGGAAGT ACCTGCAGGT          300
+     ACAGCAAAGC TGATAAAGGC TGTTTTTCCA TATGCAGGGT TATTACTGGC ATTCACGCTA          360
+     ATTAGCGTCC CACCAACATA TCCCTGCAGT CGGGATGTAT TTGCACATGC ACCTCCGGCA          420
+     GATCCTCCAT TACCTCCAGA TGCATAAATA AaCAATGTAC TGCCCCCTGA aTTCCGCCCT          480
+     GAGAATGAAC CTCTATGTGA aCCTAAGTTT GTGTAaGAaC CATTGAGCGA ACCAGAAGTC          540
+     TTCCACGT                                                             600
+//

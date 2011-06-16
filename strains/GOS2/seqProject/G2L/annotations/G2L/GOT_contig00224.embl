@@ -1,0 +1,20 @@
+ID   contig00224   standard;  DNA; PLN; 278 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS2
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..278
+FT                   /organism="Escherichia coli GOS2"
+FT                   /mol_type="genomic DNA"
+XX
+SQ   contig00224 278 BP; 59 A; 72 C; 61 G; 86 T; 0 N; 
+     TTGTTGATGG TTCAAGATTA GCCCCcGTTC TGTTGTCAGG TTTTACCTCT CAACGTGCGG           60
+     GGgTTTtCTC TTtCCAGCAA CCAATGCCAC CAGGGATAAa GCCCCcGCAA CATTGCGCCT          120
+     CACCGGATAA TTCCGGCTTG GTGTGGATAC TACGACTCAA TTCATCTTCA CTTCATCCCT          180
+     GAAATGTTTG CAATGAAGAG TGCATTCCGG TTTTtCAACA GCTGTTACAG TCGTTTCATG          240
+     AGTACTCTGG ATGATGCTTC CAGCTCGGGT TGCCAATA                               300
+//

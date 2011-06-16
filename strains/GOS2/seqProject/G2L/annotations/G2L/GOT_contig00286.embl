@@ -1,0 +1,28 @@
+ID   contig00286   standard;  DNA; PLN; 391 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS2
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..391
+FT                   /organism="Escherichia coli GOS2"
+FT                   /mol_type="genomic DNA"
+FT   gene             complement(169..279)
+FT                   /gene="RGOT05154"
+FT   CDS             complement(169..279)
+FT                   /gene="RGOT05154"
+FT                   /product="hypothetical protein"
+FT                   /translation="MEPIRDVWVTSRREQADASSMAAEQAVSLHSAQTGFC"
+XX
+SQ   contig00286 391 BP; 68 A; 107 C; 130 G; 86 T; 0 N; 
+     GGGTATGCGG CCATTTtCCG GAATGACAGG CTATGACGGC ATTGTCGCCT GTCTTCAGCA           60
+     GGCAATGGCG GATAGCCAGG TGCGGGGCGT ACTGCTGGAC ATTGACAGTC CGGGCGGGCA          120
+     GGCCGCCGGT GCGTTtGACT GTGCTGACAT GATTTACCGC CTCCGTCAGC AGAAGCCGGT          180
+     CTGGGCACTG TGCAATGACA CGGCCTGTTC TGCAGCCATG CTGCTGGCGT CGGCCTGCTC          240
+     CCGACGACTG GTTACCCAGA CATCCCGTAT CGGCTCCATT GGCGTGATGA TGAGCCATGT          300
+     CAGCTATGCC GGTCATCTGG CGCAGGCCGG GGTGGATATC ACGCTGATTT ATGCCGGGGC          360
+     GCACAAGGTG GATGGCAATC AGTTTGAAGC C                                      420
+//

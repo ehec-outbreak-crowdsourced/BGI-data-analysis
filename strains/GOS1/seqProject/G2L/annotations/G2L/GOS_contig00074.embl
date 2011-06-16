@@ -1,0 +1,27 @@
+ID   contig00074   standard;  DNA; PLN; 350 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS1
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..350
+FT                   /organism="Escherichia coli GOS1"
+FT                   /mol_type="genomic DNA"
+FT   gene             89..202
+FT                   /gene="RGOS01732"
+FT   CDS             89..202
+FT                   /gene="RGOS01732"
+FT                   /product="hypothetical protein"
+FT                   /translation="MQNRDNFWEKGSITAVNVGDEVAIKKFGSGRCTPHRPD"
+XX
+SQ   contig00074 350 BP; 103 A; 81 C; 71 G; 95 T; 0 N; 
+     CTGCCCAGCT ATCGTAaGCT CTCTTTAAAT AACCACAACG CATTGATCTA CCTTTAAATC           60
+     TTTTCTTCGA GCGTGCTCGA AAAACCCCAT GCAAAACAGA GATAATTTTt GGGAAAAAGG          120
+     ATCTATTACG GCAGTAAACG TGGGCGATGA AGTGGCTATC AAAAAGTTCG GTtCAGGGCG          180
+     ATGCACCCCG CATCGCCCTG ATTGACATCG TTGATTCTTT GACCTAATTT AGTGAGTAAG          240
+     GGTAAGGGAG GATGACTCCT CCCCTGAGAC TGACTGTTAA TAAGCTCCGA AACTTATCAG          300
+     TAACAGTACA ATCAGTATGA TGACAAGTCG CATCATAACC CTTCTCCTTT                    360
+//

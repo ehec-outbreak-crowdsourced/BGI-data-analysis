@@ -1,0 +1,32 @@
+ID   contig00047   standard;  DNA; PLN; 450 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS1
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..450
+FT                   /organism="Escherichia coli GOS1"
+FT                   /mol_type="genomic DNA"
+FT   gene             22..405
+FT                   /gene="RGOS01165"
+FT   CDS             22..405
+FT                   /gene="RGOS01165"
+FT                   /product="ECs5244:putative transposase OrfB protein of insertion sequence 
+FT                   IS629"
+FT                   /translation="METTFVLDALEQALWARRPSGTVHHSDKGSQYVSLAYTQRLKEAG
+FT                   LLASTGSTGDSYDNAMAESINGLYKAEVIHRKSWKNRAEVELATLTWVDWYNNRRLLER
+FT                   LGHTPPAEAEKAYYASIGNDDLAA"
+XX
+SQ   contig00047 450 BP; 123 A; 109 C; 131 G; 87 T; 0 N; 
+     GGGTGGCGGG TCTCATCGTC CATGGAaACG ACATTCGTGC TGGATGCACT GGAGCAGGCG           60
+     TTATGGGCCC GTCGACCGTC CGGCACGGTC CATCACAGTG ATAAAGGTTC TCAGTATGTA          120
+     TCGCTGGCCT ACACACAGCG GCTTAAGGAA GCCGGATTAC TGGCATCAAC AGGAAGTACA          180
+     GGCGACTCGT ATGACAACGC GATGGCGGAG AGCATCAATG GTCTTTACAA AGCGGAGGTA          240
+     ATACACCGTA AGAGCTGGAA AAACCGTGCA GAAGTGGAAC TGGCCACACT CACGTGGGTG          300
+     GACTGGTATA ACAATCGACG ATTGCTGGAA AGGCTGGGCC ATACTCCTCC GGCAGAAGCA          360
+     GAAAAAGCTT ATTATGCTTC CATCGGAAAC GATGATCTGG CAGCCTGAGT TCACAGATAA          420
+     AACACTCTCC AGGAAACCCG GGGCGGTTCA                                        480
+//
