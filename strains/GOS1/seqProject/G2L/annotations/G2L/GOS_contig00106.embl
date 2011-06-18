@@ -1,0 +1,26 @@
+ID   contig00106   standard;  DNA; PLN; 219 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS1
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..219
+FT                   /organism="Escherichia coli GOS1"
+FT                   /mol_type="genomic DNA"
+FT   gene             complement(34..216)
+FT                   /gene="RGOS02233"
+FT   CDS             complement(34..216)
+FT                   /gene="RGOS02233"
+FT                   /product="hypothetical protein"
+FT                   /translation="MFFGSDHGGERGALLYGLIGTCRLNGIDPEAYLRHILSVLPEWPS
+FT                   NRVDELLPWNVVLTNK"
+XX
+SQ   contig00106 219 BP; 53 A; 60 C; 59 G; 47 T; 0 N; 
+     GTAAGCGTCA ACGGAGCACC GTATTGACGC TTATTTATTG GTGAGTACTA CGTTCCATGG           60
+     CAGGAGTTCA TCAACTCGGT TGGAAGGCCA TTCCGGCAGT ACGCTCAGGA TATGGCGCAG          120
+     ATACGCTTCC GGATCGATAC CGTTCAGACG GCAGGTGCCG ATCAgCCCGT ACAACAGTGC          180
+     TCCACGCTCG CCGCCGTGAT CGCTGCCAAA GAACATAAA                              240
+//

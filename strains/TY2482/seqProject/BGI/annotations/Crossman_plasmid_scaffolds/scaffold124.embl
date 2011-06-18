@@ -1,0 +1,285 @@
+ID   TY2482scaffold124
+FH   Key             Location/Qualifiers
+FH
+FT   fasta_record    1..27426
+FT                   /note="scaffold124"
+FT                   /label=scaffold124
+FT                   /colour=11
+FT   CDS             511..729
+FT                   /colour=12
+FT                   /temporary_systematic_id="TY248204431"
+FT                   /product="putative transposase"
+FT   CDS             511..729
+FT                   /colour=12
+FT                   /temporary_systematic_id="TY248204431"
+FT                   /product="putative transposase"
+FT   CDS             911..2173
+FT                   /colour=12
+FT                   /temporary_systematic_id="TY248204430"
+FT                   /product="putative transposase Tn3DDE family domain
+FT                   protein"
+FT   CDS             911..2173
+FT                   /colour=12
+FT                   /temporary_systematic_id="TY248204430"
+FT                   /product="putative transposase Tn3DDE family domain
+FT                   protein"
+FT   CDS             2154..2276
+FT                   /colour=10
+FT                   /temporary_systematic_id="TY248204429"
+FT                   /product="conserved hypothetical protein"
+FT   CDS             2154..2276
+FT                   /colour=10
+FT                   /temporary_systematic_id="TY248204429"
+FT                   /product="conserved hypothetical protein"
+FT   CDS             2429..3304
+FT                   /note="antimicrobial resistance"
+FT                   /temporary_systematic_id="TY248204428"
+FT                   /product="beta-lactamase"
+FT                   /colour=0
+FT   CDS             2429..3304
+FT                   /note="antimicrobial resistance"
+FT                   /temporary_systematic_id="TY248204428"
+FT                   /product="beta-lactamase"
+FT                   /colour=0
+FT   CDS             complement(3351..3623)
+FT                   /colour=10
+FT                   /temporary_systematic_id="TY248204427"
+FT                   /product="conserved hypothetical protein"
+FT   CDS             complement(3351..3623)
+FT                   /colour=10
+FT                   /temporary_systematic_id="TY248204427"
+FT                   /product="conserved hypothetical protein"
+FT   CDS             3943..6492
+FT                   /colour=12
+FT                   /temporary_systematic_id="TY248204426"
+FT                   /product="putative transposase Tn3DDE family protein"
+FT   CDS             3943..6492
+FT                   /colour=12
+FT                   /temporary_systematic_id="TY248204426"
+FT                   /product="putative transposase Tn3DDE family protein"
+FT   CDS             complement(6980..8326)
+FT                   /colour=10
+FT                   /product="conserved hypothetical protein"
+FT                   /temporary_systematic_id="TY248204425"
+FT                   /gene="yagA"
+FT   CDS             complement(6980..8326)
+FT                   /colour=10
+FT                   /product="conserved hypothetical protein"
+FT                   /temporary_systematic_id="TY248204425"
+FT                   /gene="yagA"
+FT   CDS             8679..9281
+FT                   /colour=9
+FT                   /product="putative fertility inhibition protein"
+FT                   /gene="finO"
+FT                   /gene="yafB"
+FT                   /temporary_systematic_id="TY248204424"
+FT   CDS             8679..9281
+FT                   /colour=9
+FT                   /product="putative fertility inhibition protein"
+FT                   /gene="finO"
+FT                   /gene="yafB"
+FT                   /temporary_systematic_id="TY248204424"
+FT   CDS             9337..9846
+FT                   /colour=10
+FT                   /gene="yafA"
+FT                   /temporary_systematic_id="TY248204423"
+FT                   /product="conserved hypothetical protein"
+FT   CDS             9337..9846
+FT                   /colour=10
+FT                   /gene="yafA"
+FT                   /temporary_systematic_id="TY248204423"
+FT                   /product="conserved hypothetical protein"
+FT   CDS             10071..10337
+FT                   /product="putative replication protein RepA4"
+FT                   /gene="repA4"
+FT                   /colour=2
+FT                   /temporary_systematic_id="TY248204423A"
+FT   CDS             complement(10916..11947)
+FT                   /colour=2
+FT                   /temporary_systematic_id="TY248204422"
+FT                   /product="putative replication protein RepA"
+FT                   /gene="repA"
+FT   CDS             complement(10916..11947)
+FT                   /colour=2
+FT                   /temporary_systematic_id="TY248204422"
+FT                   /product="putative replication protein RepA"
+FT                   /gene="repA"
+FT   CDS             13101..13388
+FT                   /colour=2
+FT                   /product="putative sigma factor"
+FT                   /temporary_systematic_id="TY248204421"
+FT   CDS             13101..13388
+FT                   /colour=2
+FT                   /product="putative sigma factor"
+FT                   /temporary_systematic_id="TY248204421"
+FT   CDS             13830..14363
+FT                   /colour=12
+FT                   /product="putative transcription termination factor"
+FT                   /gene="nusG"
+FT                   /temporary_systematic_id="TY248204420"
+FT   CDS             13830..14363
+FT                   /colour=12
+FT                   /product="putative transcription termination factor"
+FT                   /gene="nusG"
+FT                   /temporary_systematic_id="TY248204420"
+FT   CDS             14617..15300
+FT                   /colour=3
+FT                   /product="IncI1 conjugal transfer protein"
+FT                   /gene="traC"
+FT                   /temporary_systematic_id="TY248204419"
+FT   CDS             14617..15300
+FT                   /colour=3
+FT                   /product="IncI1 conjugal transfer protein"
+FT                   /gene="traC"
+FT                   /temporary_systematic_id="TY248204419"
+FT   CDS             15427..15726
+FT                   /product="pilI conjugal transfer type IV pilus family
+FT                   protein"
+FT                   /gene="pilI"
+FT                   /temporary_systematic_id="TY248204419A"
+FT                   /colour=0
+FT                   /note="possible partial according to some BLAST hits, but
+FT                   likely complete"
+FT   CDS             15851..16441
+FT                   /product="putative conjugal transfer type IV pilus family
+FT                   protein"
+FT                   /gene="pilK"
+FT                   /colour=0
+FT   CDS             15851..16441
+FT                   /product="putative conjugal transfer type IV pilus family
+FT                   protein"
+FT                   /gene="pilK"
+FT                   /colour=0
+FT   CDS             16773..17840
+FT                   /colour=0
+FT                   /temporary_systematic_id="TY248204417"
+FT                   /product="putative type IV pilus family biosynthesis
+FT                   protein"
+FT                   /gene="pilL"
+FT                   /note="Toxin co-regulated pilus biosynthesis domain
+FT                   protein"
+FT   CDS             16773..17840
+FT                   /colour=0
+FT                   /temporary_systematic_id="TY248204417"
+FT                   /product="putative type IV pilus family biosynthesis
+FT                   protein"
+FT                   /gene="pilL"
+FT                   /note="Toxin co-regulated pilus biosynthesis domain
+FT                   protein"
+FT   CDS             17840..18277
+FT                   /temporary_systematic_id="TY248204416"
+FT                   /gene="pilM"
+FT                   /product="putative type IV pilus family biosynthesis
+FT                   protein"
+FT                   /colour=0
+FT   CDS             17840..18277
+FT                   /temporary_systematic_id="TY248204416"
+FT                   /gene="pilM"
+FT                   /product="putative type IV pilus family biosynthesis
+FT                   protein"
+FT                   /colour=0
+FT   CDS             18291..19973
+FT                   /colour=0
+FT                   /product="putative type IV pilus family biosynthesis
+FT                   protein"
+FT                   /gene="pilN"
+FT                   /temporary_systematic_id="TY2482004415"
+FT   CDS             18291..19973
+FT                   /colour=0
+FT                   /product="putative type IV pilus family biosynthesis
+FT                   protein"
+FT                   /gene="pilN"
+FT                   /temporary_systematic_id="TY2482004415"
+FT   CDS             19966..21261
+FT                   /colour=0
+FT                   /product="putative type IV pilus family biosynthesis
+FT                   protein"
+FT                   /gene="pilO"
+FT                   /temporary_systematic_id="TY248200414"
+FT   CDS             19966..21261
+FT                   /colour=0
+FT                   /product="putative type IV pilus family biosynthesis
+FT                   protein"
+FT                   /gene="pilO"
+FT                   /temporary_systematic_id="TY248200414"
+FT   CDS             21248..21700
+FT                   /colour=0
+FT                   /product="putative type IV pilus family biogenesis
+FT                   protein"
+FT                   /temporary_systematic_id="TY248200413"
+FT                   /gene="pilP"
+FT   CDS             21248..21700
+FT                   /colour=0
+FT                   /product="putative type IV pilus family biogenesis
+FT                   protein"
+FT                   /temporary_systematic_id="TY248200413"
+FT                   /gene="pilP"
+FT   CDS             21711..23264
+FT                   /colour=0
+FT                   /product="putative type IV pilus family component protein"
+FT                   /temporary_systematic_id="TY2482004412"
+FT                   /gene="pilQ"
+FT   CDS             21711..23264
+FT                   /colour=0
+FT                   /product="putative type IV pilus family component protein"
+FT                   /temporary_systematic_id="TY2482004412"
+FT                   /gene="pilQ"
+FT   CDS             23277..24362
+FT                   /colour=0
+FT                   /product="IncI1 type IV family pilus component"
+FT                   /temporary_systematic_id="TY248200411"
+FT                   /gene="pilR"
+FT   CDS             23277..24362
+FT                   /colour=0
+FT                   /product="IncI1 type IV family pilus component"
+FT                   /temporary_systematic_id="TY248200411"
+FT                   /gene="pilR"
+FT   CDS             24379..24993
+FT                   /colour=0
+FT                   /product="putative IncI1 type IV pilus family pilS domain
+FT                   protein"
+FT                   /temporary_systematic_id="TY248200410"
+FT                   /gene="pilS"
+FT   CDS             24379..24993
+FT                   /colour=0
+FT                   /product="putative IncI1 type IV pilus family pilS domain
+FT                   protein"
+FT                   /temporary_systematic_id="TY248200410"
+FT                   /gene="pilS"
+FT   CDS             25003..25563
+FT                   /colour=0
+FT                   /product="putative lytic transglycosylase"
+FT                   /temporary_systematic_id="TY248200409"
+FT                   /gene="pilT"
+FT   CDS             25003..25563
+FT                   /colour=0
+FT                   /product="putative lytic transglycosylase"
+FT                   /temporary_systematic_id="TY248200409"
+FT                   /gene="pilT"
+FT   CDS             25548..26204
+FT                   /product="putative type IV pilus family leader peptidase"
+FT                   /colour=0
+FT                   /temporary_systematic_id="TY248200408"
+FT                   /gene="pilU"
+FT   CDS             25548..26204
+FT                   /product="putative type IV pilus family leader peptidase"
+FT                   /colour=0
+FT                   /temporary_systematic_id="TY248200408"
+FT                   /gene="pilU"
+FT   CDS             26192..27285
+FT                   /note="This CDS is denoted partial solely due to the draft
+FT                   nature of the sequencing project"
+FT                   /colour=0
+FT                   /product="putative bacterial shufflon protein, partial"
+FT                   /partial
+FT                   /temporary_systematic_id="TY248200407"
+FT                   /gene="pilV"
+FT   CDS             26192..27285
+FT                   /note="This CDS is denoted partial solely due to the draft
+FT                   nature of the sequencing project"
+FT                   /colour=0
+FT                   /product="putative bacterial shufflon protein, partial"
+FT                   /partial
+FT                   /temporary_systematic_id="TY248200407"
+FT                   /gene="pilV"
+//

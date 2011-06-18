@@ -1,0 +1,37 @@
+ID   contig00194   standard;  DNA; PLN; 515 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS2
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..515
+FT                   /organism="Escherichia coli GOS2"
+FT                   /mol_type="genomic DNA"
+FT   gene             24..155
+FT                   /gene="RGOT04034"
+FT   CDS             24..155
+FT                   /gene="RGOT04034"
+FT                   /product="hypothetical protein"
+FT                   /translation="MSGQDGKAPALHFRPRSVMAAGDFVLRAMMSFADRSPKQDSLYK"
+FT   gene             341..490
+FT                   /gene="RGOT04035"
+FT   CDS             341..490
+FT                   /gene="RGOT04035"
+FT                   /product="HokE2:putative host cell-killing modulation protein"
+FT                   /translation="MLTKYALVAVIVLCLTVLGFTLLVGDSLCEFTVKERNIEFKAVLA
+FT                   YEPKK"
+XX
+SQ   contig00194 515 BP; 124 A; 111 C; 145 G; 135 T; 0 N; 
+     GGGAGCAATC CCCGCATATC CGGTTGTCAG GTCAGGATGG TAAGGCACCT GCTTTACACT           60
+     TTCGCCCGCG GTCAGTGATG GCTGCGGGCG ATTTCGTTTt AAGAGCAATG ATGAGTTTTG          120
+     CCGACAGAAG TCCGAAACAG GATTCACTGT ATAAATAAAC AGCTATTTTG TTGAGGAAGG          180
+     GTAAGATAAC GGCGGGTGCC TGAAGCTTTC CGGTTTCAGG TTAACTCTGA GGTCTGGAAA          240
+     GATGAAGCCC CAGGAGATAT TTCTATCAAT CCTGGGGCTG CCACTCCGAG CCTCAACAAC          300
+     TCGGATGGTA GTCCCTTCTT CGCATGGAGG CAATATAAAC ATGCTGACGA AATATGCCCT          360
+     TGTGGCAGTC ATAGTGCTGT GTTTGACGGT ACTGGGATTT ACGCTTCTGG TCGGAGACTC          420
+     GCTGTGTGAG TTCACCGTAA AGGAACGTAA TATTGAGTTT AAGGCTGTTC TCGCTTACGA          480
+     ACCGAAGAAG TAGCCGTTGT GCGGGGAGCA ATCCC                                  540
+//

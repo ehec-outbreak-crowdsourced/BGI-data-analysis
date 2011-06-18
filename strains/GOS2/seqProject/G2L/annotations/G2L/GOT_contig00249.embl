@@ -1,0 +1,33 @@
+ID   contig00249   standard;  DNA; PLN; 607 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS2
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..607
+FT                   /organism="Escherichia coli GOS2"
+FT                   /mol_type="genomic DNA"
+FT   gene             complement(312..569)
+FT                   /gene="RGOT04772"
+FT   CDS             complement(312..569)
+FT                   /gene="RGOT04772"
+FT                   /product="Minor tail protein precursor H"
+FT                   /translation="MGNLYRLMRGYATGGYVGTPGSLADSRSQASGTFEQNNHVVINND
+FT                   GTNGQIGPAALKAVYDMARKGARDEIQTQMRDGGLFSGGGR"
+XX
+SQ   contig00249 607 BP; 132 A; 208 C; 145 G; 122 T; 0 N; 
+     AAACTCTGCG CTGAACCCAA CACGCAACAT ACTGACCTGC GACGACCATT TTGCGCAGGT           60
+     CACCTTTATC TGCCTGTAAC CATAAGGCGG CGTCCACAGA AAGGCCTTCC AGCCCCcGTG          120
+     CTCAGCCAGA AACGACTCCA GCGCCATGGC CTCCTCACGG GAGACAGACA GCGTCACGCT          180
+     GTACGTTTTC AGGTCAGCGT TCAGCCCGGC AGGCGCACGC TGGGAATAGC CATCACCAAA          240
+     GCGCACCTCC CTGACGGAAG GAGCCGATGT CACATCCATC CCGGGTTTCA CTTTCCAGCG          300
+     GAAGGTTTTC ATCGTCCACC TCCGGAGAAC AGTCCACCAT CACGCATCTG TGTCTGAATT          360
+     TCATCACGGG CACCCTTGCG GGCCATGTCA TACACCGCCT TCAGAGCAGC CGGACCTATC          420
+     TGCCCGTTCG TGCCGTCGTT GTTAATCACC ACATGGTTAT TCTGCTCAAA CGTCCCGGAC          480
+     GCCTGCGACC GGCTGTCAGC CAGACTGCCC GGTGTACCGA CATAACCACC GGTGGCATAG          540
+     CCGCGCATCA GCCGGTAGAG ATTCCCCACG CCAATCCGGC TGGTTGCCTC CTTTGTGAAG          600
+     ACAAATT                                                              660
+//

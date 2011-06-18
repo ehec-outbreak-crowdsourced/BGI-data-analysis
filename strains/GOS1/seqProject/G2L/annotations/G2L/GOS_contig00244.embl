@@ -1,0 +1,30 @@
+ID   contig00244   standard;  DNA; PLN; 391 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS1
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..391
+FT                   /organism="Escherichia coli GOS1"
+FT                   /mol_type="genomic DNA"
+FT   gene             5..346
+FT                   /gene="RGOS05216"
+FT   CDS             5..346
+FT                   /gene="RGOS05216"
+FT                   /product="transposase, IS110 family"
+FT                   /translation="MPGEYSSGNSIRPRGITKVGNSELRRLLYEAAWSYRTPAKVGAWL
+FT                   IYYRPDSVTQYSKDIAWKAQQRLCSRYRTLTAKGKKSQVAITAVARELTGFMWDIALAA
+FT                   QSSFSQQKQN"
+XX
+SQ   contig00244 391 BP; 125 A; 84 C; 90 G; 92 T; 0 N; 
+     ACTGGTGCCA GGTGAATATT CCAGTGGAAA CAGTATTCGT CCCAGAGGAA TAACAAAAGT           60
+     TGGAAACAGC GAACTGAGAC GTCTGCTTTA CGAAGCCGCC TGGTCTTATC GTACACCTGC          120
+     AAAAGTTGGT GCATGGCTTA TATATTACCG ACCGGACTCT GTAACACAAT ATTCCAAAGA          180
+     TATTGCATGG AAAGCTCAAC AACGATTGTG TTCTCGTTAC CGAACTCTGA CAGCAAAaGG          240
+     GAAAAAaTCA CAAGTAGCCA TTACGGCGGT GGCTCGTGAG TTGACTGGAT TTATGTGGGA          300
+     TATTGCACTT GCTGCCCAAT CATCATTCAG TCAGCAGAAG CAAAaTTAAA CCCTGAAGCA          360
+     GTCAGACACG GAATGAGTGA TCCTCGAAAA A                                      420
+//

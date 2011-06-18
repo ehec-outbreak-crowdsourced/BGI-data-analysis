@@ -1,0 +1,41 @@
+ID   contig00159   standard;  DNA; PLN; 760 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS1
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..760
+FT                   /organism="Escherichia coli GOS1"
+FT                   /mol_type="genomic DNA"
+FT   gene             complement(167..331)
+FT                   /gene="RGOS03045"
+FT   CDS             complement(167..331)
+FT                   /gene="RGOS03045"
+FT                   /product="LdrD:toxic polypeptide, small"
+FT                   /translation="MHPNNTRIAAKRCHYNTGGYMTLAELGMAFWHDLAAPVIAGILAS
+FT                   MIVNWLNKRK"
+FT   gene             511..639
+FT                   /gene="RGOS03046"
+FT   CDS             511..639
+FT                   /gene="RGOS03046"
+FT                   /product="hypothetical protein"
+FT                   /translation="MLRIPQNIIRLQPLHFSYEKGRRVSLLRPGPGANCHYGSLTPT"
+XX
+SQ   contig00159 760 BP; 164 A; 232 C; 174 G; 190 T; 0 N; 
+     GTTCCGAaTC CATCACTTAC TCACTCTGTG CTGCGCATTC CGCAGAATAT TATCCGCTTG           60
+     CAACCGTTGC ATTTTTCTTA CGAAAAaGGC CGCAGAGTTT CACCCCTGCG GCCTGATCCG          120
+     GGCGCAAATT GCCATTACGG CAGCCTGACG CCCGCATGGC ACGTtACTtC CGCTTGTtCA          180
+     GCCAGTTCAC GATCATACTG GCAAGAATAC CAGCAATGAC CGGAGCCGCT AAATCATGCC          240
+     AGAAGGCCAT GCCCAGTTCT GCGAGCGTCA TATAGCCGCC TGTATTGTAA TGACAACGTT          300
+     TCGCGGCTAT TCTTGTATTG TTTGGATGCA AGAATGGCCC CcGTGGTGTT GTCAGGTGCA          360
+     TACCTGCAAC GTGCGGGGGT TTtCTCTCTC CAGCAACCAA TGCCACCAGG GATTAAGCCC          420
+     CCGCAACATT GCGCCTCACC GGAATCCTTC CGGCTTGACG CTGATTCTAC GACTGTTTTT          480
+     CTGTTCCGGA ATCCGTCTCA TCTTCACTCT GTGCTGCGCA TTCCGCAGAA TATTATCCGC          540
+     TTGCAACCGT TGCATTTTTC TTACGAAAAa GGCCGCAGAG TTTCACTCCT GCGGCCTGGT          600
+     CCGGGCGCAA ATTGCCATTA CGGCAGCCTG ACGCCCACAT GACACGCTAC TTCCGCTTGT          660
+     TCAGCCAGTT CACGATCATA CTGGCAAGAA TGCCAGCAAT GACCGGAGCC GCTAAATCAT          720
+     GCCAGAAGCC ATGCCCAGCT CTGCGAGCGT CATATAGCCG                              780
+//

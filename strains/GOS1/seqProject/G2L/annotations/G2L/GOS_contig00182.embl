@@ -1,0 +1,20 @@
+ID   contig00182   standard;  DNA; PLN; 274 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS1
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..274
+FT                   /organism="Escherichia coli GOS1"
+FT                   /mol_type="genomic DNA"
+XX
+SQ   contig00182 274 BP; 68 A; 73 C; 62 G; 71 T; 0 N; 
+     CTTCGCAGTG AACCTTTGCA GGTACACTCT GAAGTATTTT TtATTTAATC ACTACAGAGA           60
+     TGGTGGAGCT ATGCGGGATC GAACCGCAGA CCTCCTGCGT GCAAAGCAGG CGCTCTCCCA          120
+     GCTGAGCTAT AGCCCCATAA CATGTAGTTA AAACCTCTTC AAATTTGCcG TGCAAATTTG          180
+     GTAGGCCTGA GTGGACTTGA ACCACCGACC TCACCCTTAT CAGGGGTGCG CTCTAACCAC          240
+     CTGAGCTACA AGCCTGTAGA GGTTTTACTG CTCA                                   300
+//

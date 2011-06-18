@@ -1,0 +1,33 @@
+ID   contig00241   standard;  DNA; PLN; 608 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS2
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..608
+FT                   /organism="Escherichia coli GOS2"
+FT                   /mol_type="genomic DNA"
+FT   gene             60..296
+FT                   /gene="RGOT04741"
+FT   CDS             60..296
+FT                   /gene="RGOT04741"
+FT                   /product="Tail tape measure protein H"
+FT                   /translation="MRGYATGGYVGTPGSMADSRSQASGTFEQNNHVVINNDGTNGQIG
+FT                   PAALKAVYDMARKGARDEIQTQMRDGGLFSGGGR"
+XX
+SQ   contig00241 608 BP; 126 A; 144 C; 207 G; 131 T; 0 N; 
+     AGTTTGTCTT CACGAAGGAG GCAACCAGCC GGATTGGCGT GGGGAATCTT TACCGGCTGA           60
+     TGCGCGGCTA TGCCACCGGC GGTTATGTCG GTACACCGGG CAGCATGGCA GACAGCCGGT          120
+     CGCAGGCGTC CGGGACGTTT GAGCAGAATA ACCATGTGGT GATTAACAAC GACGGCACGA          180
+     ACGGGCAGAT AGGTCCGGCT GCTCTGAAGG CGGTGTATGA CATGGCCCGC AAGGGTGCCC          240
+     GTGATGAAAT TCAGACACAG ATGCGTGATG GTGGCCTGTT CTCCGGAGGT GGACGATGAA          300
+     GACCTTCCGC TGGAAAGTGA AACCCGGTAT GGATGTGGCT TCGGTCCCTT CTGTAAGAAA          360
+     GGTGCGCTTT GGTGATGGCT ATTCTCAGCG AGCGCCTGCC GGGCTGAATG CCAACCTGAA          420
+     AACGTACAGC GTGACGCTTT CTGTCCCCCG TGAGGAGGCC ACGGTACTGG AGTCGTTTCT          480
+     GGAAGAGCAC GGGGGCTGGA AATCCTTTCT GTGGACGCCG CCTTATGAGT GGCGGCAGAT          540
+     AAAGGTGACC TGCGCAAAAT GGTCGTCGCG GGTCAGTATG CTGCGTGTTG AGTTCAGCGC          600
+     AGAGTTTG                                                             660
+//

@@ -1,0 +1,26 @@
+ID   contig00113   standard;  DNA; PLN; 218 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS2
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..218
+FT                   /organism="Escherichia coli GOS2"
+FT                   /mol_type="genomic DNA"
+FT   gene             3..185
+FT                   /gene="RGOT02625"
+FT   CDS             3..185
+FT                   /gene="RGOT02625"
+FT                   /product="hypothetical protein"
+FT                   /translation="MFFGSDHGGERGALLYGLIGTCRLNGIDPEAYLRHILSVLPEWPS
+FT                   NRVDELLPWNVVLTNK"
+XX
+SQ   contig00113 218 BP; 46 A; 58 C; 62 G; 52 T; 0 N; 
+     ACGTGTTCTT CGGTAGCGAT CACGGCGGCG AGCGTGGTGC ACTGTTGTAC GGGCTGATCG           60
+     GCACCTGCCG GTTGAATGGT ATCGATCCGG AAGCGTATCT GCGCCATATC CTGAGCGTAC          120
+     TGCCGGAATG GCCTTCCAAC CGAGTTGACG AACTCCTGCC ATGGAACGTA GTACTCACTA          180
+     ATAAATAAGC GTCAATACGG TGCTCCGTTG ACGCTTAC                               240
+//

@@ -1,0 +1,31 @@
+ID   contig00164   standard;  DNA; PLN; 512 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS2
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..512
+FT                   /organism="Escherichia coli GOS2"
+FT                   /mol_type="genomic DNA"
+FT   gene             153..383
+FT                   /gene="RGOT03593"
+FT   CDS             153..383
+FT                   /gene="RGOT03593"
+FT                   /product="Protein impB"
+FT                   /translation="MLADFTPSGIAQPGLFDEIQPRKNSEKLMKTLDELNQSGKGKVWF
+FT                   AGRGTAPEWQMKREMLSPAYTTRWTDLPVAQL"
+XX
+SQ   contig00164 512 BP; 149 A; 112 C; 113 G; 138 T; 0 N; 
+     CCCCCTTTGC AGTAAAaGAA CCCTGTTACA GCAATGCCGC TGTGGAAAaG CTTCCATTGC           60
+     CCACACAGGA CAGCCGGGAC ATTATTGCCG CCGCATGCAG AGCCTTAAAC CATGTCTGGC          120
+     GTGAAGGGTA CCGCTATATG AAGGCAGGAG TCATGCTGGC TGATTTCACA CCATCGGGTA          180
+     TAGCGCAGCC GGGATTATTT GATGAAATCC AGCCCCGTAA AAACAGTGAA AAGTTAATGA          240
+     AAACACTCGA TGAACTGAAC CAGTCGGGAA AAGGGAAAGT GTGGTTTGCG GGGCGAGGAA          300
+     CCGCCCCTGA ATGGCAAATG AAACGGGAAa TGCTTTCTCC TGCGTATACC ACCAGATGGA          360
+     CAGATTTGCC AGTAGCCCAG TTATGAATAT GTAATCCaCC CATAATATTG TTATCTTGTT          420
+     ATCTTGTTAT CTTGTTATCT TGTTATCTTG TTGTCTTGTT ATCTTAaTTA atCTATAAat          480
+     Caaatactta acaacttact aagttgttaa ca                                     540
+//

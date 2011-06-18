@@ -1,0 +1,31 @@
+ID   contig00031   standard;  DNA; PLN; 451 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS2
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..451
+FT                   /organism="Escherichia coli GOS2"
+FT                   /mol_type="genomic DNA"
+FT   gene             22..405
+FT                   /gene="RGOT00862"
+FT   CDS             22..405
+FT                   /gene="RGOT00862"
+FT                   /product="Transposase for insertion sequence element IS629"
+FT                   /translation="METTFVLDALEQALWARRPSGTIHHSDKGSQYVSLAYKARLKEAK
+FT                   LLASTGSTGDSYDNAMAEIIKGLYKAEVIHRKSWKNRTEVELATLTWVDWYNNRRLLER
+FT                   LGHIPPAEAEKAYYASIGNDDLAA"
+XX
+SQ   contig00031 451 BP; 128 A; 107 C; 128 G; 88 T; 0 N; 
+     TGGTGACGAG TCTCATCGTC TATGGAAACG ACATTCGTGC TGGATGCACT GGAGCAGGCG           60
+     TTGTGGGCCC GTCGTCCGTC TGGCACCATC CATCACAGCG ATAAAGGCTC TCAGTATGTG          120
+     TCACTGGCCT ATAAGGCGCG ACTAAAAGAA GCAAAACTGC TGGCATCAAC AGGGAGTACT          180
+     GGTGACTCGT ATGACAACGC GATGGCAGAG ATCATCAAGG GCCTTTACAA AGCGGAGGTA          240
+     ATACACCGTA AGAGCTGGAA AAACCGGACA GAAGTGGAGC TGGCCACACT CACGTGGGTG          300
+     GACTGGTATA ACAATCGACG ATTGCTGGAA AGGCTGGGCC ATATCCCACC GGCAGAAGCA          360
+     GAAAAaGCTT ATTATGCTTC CATCGGAAAT GATGATCTGG CAGCCTGAGT TCACAGATAA          420
+     AACACTCTCC AGGAAACCCG GGGCGGTTCA G                                      480
+//

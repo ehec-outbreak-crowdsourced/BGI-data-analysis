@@ -1,0 +1,28 @@
+ID   contig00101   standard;  DNA; PLN; 314 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS2
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..314
+FT                   /organism="Escherichia coli GOS2"
+FT                   /mol_type="genomic DNA"
+FT   gene             complement(156..311)
+FT                   /gene="RGOT02447"
+FT   CDS             complement(156..311)
+FT                   /gene="RGOT02447"
+FT                   /product="InsH:IS5 transposase and trans-activator"
+FT                   /translation="MEHPFRIIKRQFGFVKARYKGLLKNDNQLAMLFTLANLFRVDQMI
+FT                   RQWERSQ"
+XX
+SQ   contig00101 314 BP; 68 A; 81 C; 69 G; 96 T; 0 N; 
+     ACTAGGGAAG GTGCGAATAA GCAGGTCATT TCTTCCCAAG TTGACTCGCT GATTAAAATT           60
+     TCGCGGATCT GGGCCGATTT TTTtCCCGCA AACACATCGA ATCAGCCTAT TTAGGCTATT          120
+     TTTTCCACCA TTTCTGGCGT TATTtCCGGT TTTTACTGAG ATCTCTCCCA CTGACGTATC          180
+     ATTTGGTCCA CCCGAAACAG GTTGGCCAGG GTGAATAACA TCGCCAGTTG GTTATCGTTT          240
+     TtCAGCAGCC CCTTGTATCT GGCTTTCACG AAGCCGAACT GCCGCTTGAT GATGCGAAAC          300
+     GGGTGCTCCA CCCT                                                       360
+//

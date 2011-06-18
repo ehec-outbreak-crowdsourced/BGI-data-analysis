@@ -1,0 +1,17 @@
+ID   contig00222   standard;  DNA; PLN; 116 BP
+XX
+DT   14-5-2011(Rel.1, Created)
+XX
+OS   Escherichia coli GOS1
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia; coli; 
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..116
+FT                   /organism="Escherichia coli GOS1"
+FT                   /mol_type="genomic DNA"
+XX
+SQ   contig00222 116 BP; 28 A; 33 C; 28 G; 27 T; 0 N; 
+     TTCAAGACGC TTACATCGTA aGTGCGCCCA GTTGGGGTAT CGCCAAGCGG TAAGGCACCG           60
+     GATTCTGATT CCGGCATTCC GAGGTTCGAA TCCTCGTACC CCAGCCAcAT TtAaaa             120
+//
