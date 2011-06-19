@@ -1,0 +1,6 @@
+rod_id	sequence_id	start	end	direction
+RD0001	TY-2482_chromosome	5167116	5228139	1
+RD0002	TY-2482_chromosome	5252587	5272686	1
+RD0002	TY-2482_chromosome	1	65686	1
+RD0003	TY-2482_chromosome	1009406	1058696	-1
+RD0004	TY-2482_chromosome	3114088	3163067	1
