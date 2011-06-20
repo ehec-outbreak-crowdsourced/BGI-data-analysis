@@ -4,6 +4,8 @@ import sys
 
 
 class Feature(object):
+	pubmedbase = "http://www.ncbi.nlm.nih.gov/pubmed/"
+
 	def __init__(self,sequence_id,start,end,direction,unigene,description):
 		self.sequence_id = sequence_id
 		self.start = start
@@ -11,9 +13,14 @@ class Feature(object):
 		self.direction = direction
 		self.unigene = unigene
 		self.description = description
+		self.pmids = []
 
 	def __str__(self):
 		return "\t".join([str(i) for i in (self.sequence_id,self.start,self.end,self.direction,self.unigene,self.description,)])
+
+	def pubmed_anchor(self):
+		return ";".join([('<a href="%s%i">%i</a>' % (self.pubmedbase,pmid,pmid,)) for pmid in self.pmids])
+
 
 class ROD(object):
 	def __init__(self):
@@ -39,6 +46,7 @@ def read_annotation_db(filename=None):
 		## end_pos is column G --> python index 6
 		## unigene accession column I --> python index 8
 		## "Protein names" column J --> python index 9
+		## "PubMed ID" column U --> python index 19
 		sequence_id = fields[0]
 		start = int(fields[4])
 		end = int(fields[6])
@@ -46,9 +54,11 @@ def read_annotation_db(filename=None):
 		if end < start:
 			start,end = end,start
 			direction = -1
-		unigene = fields[8]		
-		description = fields[9]	
-		feature_dict[(sequence_id,start,end,)] = Feature(sequence_id,start,end,direction,unigene,description)
+		unigene = fields[8]
+		description = fields[9]
+		feature = Feature(sequence_id,start,end,direction,unigene,description)
+		feature.pmids = [int(i) for i in fields[20].split(";") if i.strip()]
+		feature_dict[(sequence_id,start,end,)] = feature
 	return feature_dict		
 
 
@@ -96,8 +106,9 @@ def dump_html(feature_list,outfile=sys.stdout):
 			unigene_anchor = '<a href="%s">%s</a>' % (url,feature.unigene,)
 		else:
 			unigene_anchor = ''
-		outfile.write("<tr><td>%s</td><td>%i</td><td>%i</td><td>%i</td><td>%s</td><td>%s</td></tr>\n" %
-		  (feature.sequence_id,feature.start,feature.end,feature.direction,unigene_anchor,feature.description or feature.unigene,) )	
+		outfile.write("<tr><td>%s</td><td>%i</td><td>%i</td><td>%i</td><td>%s</td><td>%s</td><td>%s</td></tr>\n" %
+		  (feature.sequence_id,feature.start,feature.end,feature.direction,unigene_anchor,
+		   feature.description or feature.unigene,feature.pubmed_anchor(),) )	
 	outfile.write("</table></body></html>\n")	
 
 
