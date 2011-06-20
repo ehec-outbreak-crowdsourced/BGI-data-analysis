@@ -20,6 +20,14 @@ class Feature(object):
 
 	def pubmed_anchor(self):
 		return ";".join([('<a href="%s%i">%i</a>' % (self.pubmedbase,pmid,pmid,)) for pmid in self.pmids])
+	def get_size(self):
+		return self.end - self.start + 1
+	def get_USA(self):
+		## emboss universal sequence allocation (USA)
+		if self.direction >= 0:
+			return "%s[%i:%i]" % (self.sequence_id,self.start,self.end,)
+		else:
+			return "%s[%i:%i:r]" % (self.sequence_id,self.start,self.end,)
 
 
 class ROD(object):
@@ -99,17 +107,20 @@ def get_rod_dict(feature_dict,filename=None):
 def dump_html(feature_list,outfile=sys.stdout):
 	if not hasattr(outfile,"write"):
 		outfile = file(outfile,"wb")
-	outfile.write("<html><body><table>\n")	
+	#outfile.write("<html><body><table>\n")	
+	outfile.write("<table>\n")	
+	outfile.write('<tr><th>&nbsp;</th><th>unigene</th><th>description</th><th>pubmed</th><th>size</th><th>sequence position</th></tr>\n')
 	for center,feature in feature_list:
 		if len(feature.unigene) == 6:
 			url = "http://www.uniprot.org/uniref/?query=member:%s+identity:0.9&lucky=yes" % feature.unigene
 			unigene_anchor = '<a href="%s">%s</a>' % (url,feature.unigene,)
 		else:
 			unigene_anchor = ''
-		outfile.write("<tr><td>%s</td><td>%i</td><td>%i</td><td>%i</td><td>%s</td><td>%s</td><td>%s</td></tr>\n" %
-		  (feature.sequence_id,feature.start,feature.end,feature.direction,unigene_anchor,
-		   feature.description or feature.unigene,feature.pubmed_anchor(),) )	
-	outfile.write("</table></body></html>\n")	
+		outfile.write('<tr><td nowrap>%s</td><td>%s</td><td>%s</td><td>%s</td><td>%i</td><td nowrap>%s</td></tr>\n' %
+		  ({1:"&#x2014;&gt;",-1:"&lt;&#x2014;",}[feature.direction],unigene_anchor,feature.description or feature.unigene,
+		   feature.pubmed_anchor(),feature.get_size(),feature.get_USA(),))
+	#outfile.write("</table></body></html>\n")	
+	outfile.write("</table>\n")	
 
 
 def main():
